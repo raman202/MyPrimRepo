@@ -1,0 +1,2 @@
+# Mac Junk .DS_Store # Eclipse .project .classpath .settings/ # Maven build output target/ bin/ # IntelliJ *.iml .idea/
+
